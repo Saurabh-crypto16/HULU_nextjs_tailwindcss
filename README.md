@@ -1,3 +1,21 @@
+
+
+<img src="https://github.com/Saurabh-crypto16/HULU_nextjs_tailwindcss/blob/main/HULU%20-%20Brave%2028-04-2021%2000_24_49.png" width="2500" height="800" />
+
+<img src="https://github.com/Saurabh-crypto16/HULU_nextjs_tailwindcss/blob/main/HULU%20-%20Brave%2028-04-2021%2000_24_57.png" width="2500" height="800" />
+
+<img src="https://github.com/Saurabh-crypto16/HULU_nextjs_tailwindcss/blob/main/HULU%20-%20Brave%2028-04-2021%2000_25_49.png" width="2500" height="800" />
+
+<img src="https://github.com/Saurabh-crypto16/HULU_nextjs_tailwindcss/blob/main/HULU%20-%20Brave%2028-04-2021%2000_26_06.png" width="2500" height="800" />
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
